@@ -1,0 +1,16 @@
+query RunInput {
+  cart {
+    lines {
+      id
+      quantity
+      cost {
+        amountPerQuantity {
+          amount
+        }
+      }
+      prices: attribute(key: "_prices") {
+        value
+      }
+    }
+  }
+}
