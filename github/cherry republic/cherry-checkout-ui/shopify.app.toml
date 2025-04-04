@@ -1,8 +1,8 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-client_id = "26b27b4cf6c33331df9ed2779cb733f3"
+client_id = "a95e64a4a2abd8255d3bfa9d941070d1"
 name = "thank-you-order-status"
-handle = "thank-you-order-status-42"
+handle = "thank-you-order-status-51"
 application_url = "https://shopify.dev/apps/default-app-home"
 embedded = true
 
