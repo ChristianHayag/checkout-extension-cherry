@@ -14,7 +14,7 @@
   "trustedDependencies": [
     "@shopify/plugin-cloudflare"
   ],
-  "author": "Neil Jhon",
+  "author": "Christian",
   "private": true,
   "workspaces": [
     "extensions/*"
